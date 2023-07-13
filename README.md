@@ -1,0 +1,2 @@
+# Stockanalisis
+for project
